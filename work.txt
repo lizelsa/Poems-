@@ -1,3 +1,2 @@
 work fast station 
-
-work smart
+the git hub flow
